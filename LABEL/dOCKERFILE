@@ -1,0 +1,4 @@
+from almalinux:9
+LABEL COURSE = "DOCKER"\
+      trainer = "siva"\
+      author = "vijay@gmail.com"
