@@ -7,5 +7,5 @@
 # ENTRYPOINT ["ping", "google.com"]
 
 FROM almalinux:9
-CMM ["google.com"]
+CMD ["google.com"]
 ENTRYPOINT ["ping"]
