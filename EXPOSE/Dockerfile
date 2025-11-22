@@ -1,2 +1,2 @@
-FROM vijayamudalapalli:v1
+FROM vijayamudalapalli/cmd:v1
 EXPOSE 80/tcp
